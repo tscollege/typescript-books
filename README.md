@@ -1,11 +1,11 @@
-# TypeScript Books
+# Awesome TypeScript Books
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 
-A curated list of the best books for learning and mastering TypeScript — from beginner fundamentals to advanced type-system techniques and framework-specific guides.
+> A curated, hand-picked list of the best TypeScript books for learning and mastering TypeScript in 2026 — from beginner-friendly introductions to advanced type-system techniques, generics, and framework-specific guides for React and Node.js.
 
-Maintained by **[TypeScript College](https://typescript.college)** — see more of our projects at [github.com/tscollege](https://github.com/tscollege).
+Whether you're a JavaScript developer picking up TypeScript for the first time, or an experienced engineer looking to master advanced types and generics, this list helps you find the right TypeScript book for your level and use case.
 
 ## Contents
 
@@ -82,7 +82,7 @@ Maintained by **[TypeScript College](https://typescript.college)** — see more 
 
 ## Contributing
 
-Suggestions welcome! Feel free to open a pull request or issue on [this repo](https://github.com/tscollege/TypescriptBooks) to add a book, fix a broken link, or improve a description. Please keep entries in the format:
+Suggestions welcome! Feel free to open a pull request or issue to add a book, fix a broken link, or improve a description. Please keep entries in the format:
 
 ```
 - **[Title](link)** — Author (Publisher, Year). One-sentence description of what makes it worth reading.
@@ -94,4 +94,4 @@ Suggestions welcome! Feel free to open a pull request or issue on [this repo](ht
 
 ## About
 
-This list is maintained by [TypeScript College](https://typescript.college), a free resource for learning TypeScript. Check out our other projects on GitHub at [github.com/tscollege](https://github.com/tscollege).
+**Awesome TypeScript Books** is a community-curated, open-source list of the best books, guides, and free resources for learning TypeScript — covering everything from beginner fundamentals to advanced type-level programming. Contributions and suggestions are always welcome.
